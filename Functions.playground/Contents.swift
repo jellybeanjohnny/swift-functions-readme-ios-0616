@@ -30,7 +30,7 @@ func sayHelloToCat(catName: String) {
 
 sayHelloToCat("Mittens")
 
-let catFriend = "Socks"
+let catFriend = "woof"
 sayHelloToCat(catFriend)
 
 // Uncomment this line to see the error that is printed in the console.
